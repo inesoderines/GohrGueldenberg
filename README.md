@@ -4,3 +4,5 @@ Repository zur finalen Abgabe im Seminar "Informationsvisualisierung und Sprache
 5. Juli: Interface und erste Visualisierungen
 
 23. Juli: New branch mit neuen Balkendiagrammen und Bevölkerungszahlen
+
+6. August: Formatierungen und Quellen
