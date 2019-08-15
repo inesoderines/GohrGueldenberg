@@ -7,4 +7,4 @@ Repository zur finalen Abgabe im Seminar "Informationsvisualisierung und Sprache
 
 6. August: Formatierungen und Quellen
 
-15 August: Finale Abgabedatei
+15 August: Finale Abgabedatei ("Finaler Code")
