@@ -1,0 +1,15 @@
+
+.navbar-inverse {
+  background-color: #051324;
+}
+
+.storyboard-nav .sbframelist ul li.active {
+  background-color: #051324 !important;
+}
+
+.gtitle {
+  font-family: "Source Sans Pro",Calibri,Candara,Arial,sans-serif !important;
+  font-size: 19px !important;
+  color: black !important;
+  fill: black !important;
+}
